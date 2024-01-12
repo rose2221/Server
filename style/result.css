@@ -1,0 +1,27 @@
+.modal__form{
+    display: flex;
+    flex-direction: column;
+    gap:32px
+}
+
+.company__description{
+    height: 60px;
+    width: 800px;
+    background-color: rgb(124, 154, 230);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left:264px
+}
+
+.add__jobs{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.add__button{
+    width: 50px;
+    margin-left:900px
+}
